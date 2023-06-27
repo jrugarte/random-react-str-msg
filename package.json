@@ -1,0 +1,19 @@
+{
+  "name": "random-react-str-msg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Oscar Ugarte <jr.ugartee@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+    "preferGlobal": true
+}
+  
+
+
